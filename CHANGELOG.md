@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ItsJennyFiggy/template-go/compare/v1.0.0...v1.0.1) (2026-06-11)
+
+
+### Bug Fixes
+
+* **ghcr:** lowercase repository name in docker tags ([#3](https://github.com/ItsJennyFiggy/template-go/issues/3)) ([ccfca23](https://github.com/ItsJennyFiggy/template-go/commit/ccfca23f9c59aee11941b519d39e4d02f7df92e1))
+
 ## 1.0.0 (2026-06-11)
 
 
