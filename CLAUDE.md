@@ -1,4 +1,4 @@
-# [REPO_NAME]
+# template-go
 
 @.agents/rules/git_safety.md
 @.agents/rules/dependency_management.md
