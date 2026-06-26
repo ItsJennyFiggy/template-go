@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ItsJennyFiggy/template-go/compare/v1.0.1...v1.1.0) (2026-06-26)
+
+
+### Features
+
+* modernize build pipeline using GoReleaser + ko and remove Dockerfile ([#7](https://github.com/ItsJennyFiggy/template-go/issues/7)) ([35529c2](https://github.com/ItsJennyFiggy/template-go/commit/35529c2318c3757d3d8b00d12f042153c2d00a2a))
+
 ## [1.0.1](https://github.com/ItsJennyFiggy/template-go/compare/v1.0.0...v1.0.1) (2026-06-11)
 
 
